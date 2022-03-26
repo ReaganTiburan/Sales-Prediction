@@ -37,7 +37,7 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
     
     ![donut_1](https://user-images.githubusercontent.com/98469181/160244346-7e0ddfb6-4169-4c7b-b36f-ee682ae82503.JPG)
    
-   ![donut_2](https://user-images.githubusercontent.com/98469181/160244374-87d7178d-629e-47b5-81c0-9816f3609f35.JPG)
+    ![donut_2](https://user-images.githubusercontent.com/98469181/160244374-87d7178d-629e-47b5-81c0-9816f3609f35.JPG)
 
    
  ## Step 3: Model Prediction
@@ -56,8 +56,8 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
   ![tree](https://user-images.githubusercontent.com/98469181/160244649-8d06444f-088c-4f9f-a476-62ef96a6da7f.JPG)
    
    
-      ## Recommendation:
-      From the result of the two Models, we can recommend that the best Model for our dataset would be the Decision Tree Regression Model. It provides better score           result during our Model test.
+ ## Recommendation:
+   From the result of the two Models, we can recommend that the best Model for our dataset would be the Decision Tree Regression Model. It provides better score          result during our Model test.
  
 
           
