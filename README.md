@@ -31,8 +31,15 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
 
     1. Create visualiztion on which product is mostly been bought at the stores.
        
-       ![bar](https://user-images.githubusercontent.com/98469181/160244262-c35d74b3-e50b-443a-8f52-8b8044af57c9.JPG)
+       1. Create visualiztion on which product is mostly been bought at the stores.
+   
+   ![bar](https://user-images.githubusercontent.com/98469181/160244262-c35d74b3-e50b-443a-8f52-8b8044af57c9.JPG)
 
+
+2. Craeating Donut chart to show which are the Outlet Type and Outlet Location type has the most sales output.
+    
+    ![donut_1](https://user-images.githubusercontent.com/98469181/160244346-7e0ddfb6-4169-4c7b-b36f-ee682ae82503.JPG)
+    ![donut_2](https://user-images.githubusercontent.com/98469181/160244374-87d7178d-629e-47b5-81c0-9816f3609f35.JPG)
 
     2. Craeating Donut chart to show which are the Outlet Type and Outlet Location type has the most sales output.
         
