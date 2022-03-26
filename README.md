@@ -51,7 +51,7 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
           For Machine Learning Models we tried 2 different models to test our Dataset and see which will provide the better result.
           1. Linear Regression Model
              from the score result, our dataset is not fit for this model due to high error on its test result.
-             ![linear](https://user-images.githubusercontent.com/98469181/160244576-39a426dc-a920-4a73-9ded-3d5539f436d5.JPG)
+             https://github.com/ReaganTiburan/Sales-Prediction/blob/main/linear.JPG
 
              
           2. Decision Tree Regression Model
