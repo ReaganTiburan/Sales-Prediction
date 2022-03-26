@@ -36,7 +36,8 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
  2. Craeating Donut chart to show which are the Outlet Type and Outlet Location type has the most sales output.
     
     ![donut_1](https://user-images.githubusercontent.com/98469181/160244346-7e0ddfb6-4169-4c7b-b36f-ee682ae82503.JPG)
-    ![donut_2](https://user-images.githubusercontent.com/98469181/160244374-87d7178d-629e-47b5-81c0-9816f3609f35.JPG)
+   
+   ![donut_2](https://user-images.githubusercontent.com/98469181/160244374-87d7178d-629e-47b5-81c0-9816f3609f35.JPG)
 
    
  ## Step 3: Model Prediction
@@ -44,12 +45,15 @@ Item_Outlet_Sales	                Sales of the product in the particular store. 
           For Machine Learning Models we tried 2 different models to test our Dataset and see which will provide the better result.
   1. Linear Regression Model
      from the score result, our dataset is not fit for this model due to high error on its test result.
-   ![linear](https://github.com/ReaganTiburan/Sales-Prediction/blob/main/linear.JPG)
+  
+  ![linear](https://github.com/ReaganTiburan/Sales-Prediction/blob/main/linear.JPG)
 
              
   2. Decision Tree Regression Model
      the result of this model is better than Linear Regression, we can see that the result of train and test score difference are small.
-   ![tree](https://user-images.githubusercontent.com/98469181/160244649-8d06444f-088c-4f9f-a476-62ef96a6da7f.JPG)
+  
+  
+  ![tree](https://user-images.githubusercontent.com/98469181/160244649-8d06444f-088c-4f9f-a476-62ef96a6da7f.JPG)
    
    
       ## Recommendation:
